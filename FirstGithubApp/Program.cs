@@ -10,17 +10,8 @@ namespace FirstGithubApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello!!");
-
-
-
-
-
-
-
-
-
-
+            Console.WriteLine("This is my first app on GitHub!!");
+            Console.ReadKey();
         }
     }
 }
